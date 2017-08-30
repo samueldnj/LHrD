@@ -13,22 +13,16 @@ outputLHrD():       Takes the output from makeLHRfromList() and produces
                     as ./LHrD.csv
 
 
-Authors: Samuel D. N. Johnson and Sean P. Cox
-Date: 30 August, 2017
+#### Authors: Samuel D. N. Johnson and Sean P. Cox
 
-References:
+#### Date: 30 August, 2017
+
+## References:
 
 S. D. N. Johnson and S. P. Cox, Simulation testing the Robin Hood approach
     to stock assessment: Should we steal from the data rich and give to
     the data poor? In submission, 2017.
+
+
 J. P. Kleijnen. Design and analysis of simulation experiments, volume 20. 
     Springer, 2008.
-
-## Requirements
-pandoc
-
-pandoc-citeproc
-
-pandoc-eqnos
-
-latex (macTex if on macOS)
