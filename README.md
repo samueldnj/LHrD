@@ -19,9 +19,7 @@ outputLHrD():       Takes the output from makeLHRfromList() and produces
 
 ## References:
 
-S. D. N. Johnson and S. P. Cox, Simulation testing the Robin Hood approach
-    to stock assessment: Should we steal from the data rich and give to
-    the data poor? In submission, 2017.
+Johnson, S.D.N. and  S.P. Cox, Evaluating the role of data quality when sharing information in hierarchical multi-stock assessment models, with an application to dover sole. CJFAS, 2019
 
 
 J. P. Kleijnen. Design and analysis of simulation experiments, volume 20. 
